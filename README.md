@@ -17,8 +17,7 @@ This repository contains two impactful AI projects designed to address environme
 - [Project 1: Forest Fire Detection](#project-1-forest-fire-detection)  
 - [Project 2: Waste Sorting](#project-2-waste-sorting)  
 - [Setup and Installation](#setup-and-installation)  
-- [Contributing](#contributing)  
-- [License](#license)  
+- [Contributing](#contributing) 
 
 ---
 
