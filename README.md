@@ -34,7 +34,11 @@ Environmental challenges like forest fires and improper waste management demand 
 ## Project 1: Forest Fire Detection Using Satellite Imagery 🔥
 
 ### Description  
-This project focuses on leveraging satellite imagery and deep learning to detect forest fires and assess areas at risk. By predicting fire-prone regions, it enables proactive measures to prevent catastrophic losses to ecosystems and human lives.  
+Forest fires are one of the most devastating natural disasters, causing irreversible damage to ecosystems, wildlife, and human settlements. Rapid identification of fire-prone areas is critical to minimize destruction and protect vulnerable communities.
+
+This project utilizes satellite imagery combined with advanced machine learning techniques to analyze forested regions for signs of fire hazards. A Convolutional Neural Network (CNN) is employed to process the spatial data and generate predictions of potential fire outbreaks. The outputs include detailed heatmaps that can guide authorities and decision-makers to implement early warning systems, allocate resources efficiently, and save lives.
+
+With the rising availability of satellite data and improvements in AI, this project demonstrates how technology can address environmental challenges in a scalable and impactful way.  
 
 ### Features  
 - Input: Satellite images of forested regions.  
@@ -56,7 +60,12 @@ https://www.kaggle.com/datasets/abdelghaniaaba/wildfire-prediction-dataset
 ## Project 2: Waste Sorting Using Computer Vision Model ♻️
 
 ### Description  
-This project automates waste classification using a computer vision model. It identifies and categorizes waste into types such as plastic, paper, and glass, enabling more efficient recycling processes.  
+Improper waste management is a growing environmental issue that contributes to pollution, resource wastage, and adverse effects on human health. Manual waste sorting, while common, is often inefficient, prone to errors, and labor-intensive. Automating this process can significantly improve recycling efficiency and reduce the environmental footprint.
+
+This project employs a computer vision model to classify waste items into specific categories, such as plastic, glass, paper, and organic materials. By leveraging a Convolutional Neural Network (CNN) fine-tuned on waste classification datasets, the model achieves high accuracy in distinguishing various types of waste.
+
+The solution is designed to be scalable, making it suitable for integration into industrial automated waste sorting systems or small-scale local recycling units. By reducing dependency on manual sorting and improving precision, this project aims to promote sustainable waste management practices globally.
+
 
 ### Features  
 - Input: Images of waste items.  
